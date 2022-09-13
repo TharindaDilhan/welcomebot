@@ -7,7 +7,7 @@
 
 > This bot is a simple Discord Welcome Bot.
 
-### 🏠 [Homepage](https://github.com/muratvastark/discord-welcome-bot)
+### 🏠 [Homepage](https://github.com/TharindaDilhan)
 
 ## Usage
 
@@ -21,14 +21,14 @@
 
 ## Author
 
-👤 **Muratva Stark**
+👤 **codingsl**
 
-* Discord: [Muratva Stark](https://discord.com/users/470974660264067072)
-* Github: [@muratvastark](https://github.com/muratvastark)
+* Discord: [codingsl](https://discord.gg/VEq5mtgmgQ)
+* Github: [@codingsl](https://github.com/TharindaDilhan)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/muratvastark/discord-welcome-bot/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/TharindaDilhan). 
 
 ## Show your support
 
@@ -36,5 +36,5 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2021 [Muratva Stark](https://github.com/muratvastark).<br />
-This project is [MIT](https://github.com/muratvastark/discord-welcome-bot/blob/main/LICENSE) licensed.
+Copyright © 2021 [codingsl](https://github.com/TharindaDilhan).<br />
+This project is [CIT](https://github.com/TharindaDilhan) licensed.
